@@ -4,11 +4,9 @@
 <br>
 I started with Minecraft servers and applications in VB.Net on 2015, I also tried creating Minecraft Plugins and other stuff. 💾
 
-Nowadays I'm focusing on game development, working on an old project. (nothing too serious, I'm just remaking a game that I made in 2018) 🐧
+Nowadays I'm focused on game development, but I still do other things sometimes.
 
 I intend to continue in this area and launch commercial games in the future (with a focus on the mobile market, and maybe on Steam) 🎮
-
-As you can see, my English is not the best, but I'm trying to improve it too! 🪄
 
 
 **📨 Contact Me:** 
