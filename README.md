@@ -4,7 +4,7 @@
 <br>
 I started with Minecraft servers and applications in VB.Net on 2015, I also tried creating Minecraft Plugins and other stuff. 💾
 
-Nowadays I'm focused on game development, but I still do other things sometimes.
+Nowadays I'm focused on game development, but I still do other things sometimes. Working on playlotus.net (site under development)
 
 I intend to continue in this area and launch commercial games in the future (with a focus on the mobile market, and maybe on Steam) 🎮
 
