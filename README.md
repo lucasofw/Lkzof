@@ -1,17 +1,17 @@
 
 # 👋 Hallo.
-<strong>Creating things since 2015.</strong>
+<strong>Just a dumbass.</strong>
 <br>
 I started with Minecraft servers and applications in VB.Net on 2015, I also tried creating Minecraft Plugins and other stuff. 💾
 
-Nowadays I'm focused on game development, but I still do other things sometimes. Working on <a href="https://playlothus.net" target="_blank">playlothus.net</a> (site under development)
+Nowadays I'm focused on game and web development, but I still do other things sometimes. Working on <i><you don't have permission to see></i> 
 
-I intend to continue in this area and launch commercial games in the future (with a focus on the mobile market, and maybe on Steam) 🎮
+🎮 Trying to finish my games and publish them on steam/play store, but working alone is a bit hard .-. 
 
 
 **📨 Contact Me:** 
 
-• 👾<strong> Discord:</strong> <code>lucasof#2261</code> <br>
+• 👾<strong> Discord:</strong> <code>lucasof#1869</code> <br>
 • 🎮<strong>Steam:</strong> <code>lucasof</code> <br>
 • 🐦<strong>Twitter:</strong> <code>lucazof</code> <br>
 • ♟️<strong>Chess.com:</strong> <code>lucazof</code> (yes, I like chess, but I'm horrible on it)<br>
