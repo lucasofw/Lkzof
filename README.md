@@ -17,6 +17,4 @@ Nowadays I'm focused on game and web development, but I still do other things so
 • 🐦<strong>Twitter:</strong> <code>lucazof</code> <br>
 • ♟️<strong>Chess.com:</strong> <code>lucazof</code> (yes, I like chess, but I'm horrible on it)<br>
 
-(Currently not using discord, steam or twitter, you can contact me via email if you prefer: 📨 <span style="color: cyan;">sup@lucasof.com</span>)
-
 ![phpcme0qu](https://user-images.githubusercontent.com/74553272/153092732-3da24f8f-7c18-4fba-8781-ef3434893d09.gif)
