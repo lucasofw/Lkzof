@@ -1,6 +1,5 @@
 
 # 👋 Hallo.
-<strong>Just a dumbass.</strong>
 <br>
 I started with Minecraft servers and applications in VB.Net on 2015, I also tried creating Minecraft Plugins and other stuff. 💾
 
