@@ -1,19 +1,21 @@
-
 # 👋 Hallo.
 <br>
+<strong>Hey, I'm lucasof!</strong> <br>
 I started with Minecraft servers and applications in VB.Net on 2015, I also tried creating Minecraft Plugins and other stuff. 💾
 
-Nowadays I'm focused on game and web development, but I still do other things sometimes. Working on my personal website, <a href="https://github.com/lucasofw">click here</a> to see
-(when its ready) 🍁
+Nowadays I'm focused on game engines/games development, but I still do other things sometimes. Working on my personal website, <a href="https://lucasof.site" target="blank">click here</a> to see
+(Not ready yet) 🍁
 
 🎮 Trying to finish my games and publish them on steam/play store, but working alone is a bit hard .-. 
 
 
 **📨 Contact Me:** 
 
-• 👾<strong> Discord:</strong> <code>lucasof#1869</code> <br>
-• 🎮<strong>Steam:</strong> <code>lucasof</code> <br>
-• 🐦<strong>Twitter:</strong> <code>lucazof</code> <br>
-• ♟️<strong>Chess.com:</strong> <code>lucazof</code> (yes, I like chess, but I'm horrible on it)<br>
+• 👾<strong> Discord:</strong> <code><a href="https://discord.com/users/319652568160534542" target_blank>@lucasof</a></code> <br>
+• 🎮<strong>Steam:</strong> <code><a href="https://steamcommunity.com/id/lucasof" target_blank>@lucasof</a></code> <br>
+• 🐦<strong>Twitter:</strong> <code><a href="https://x.com/lucazof" target_blank>@lucazof</a></code> <br>
+• ♟️<strong>Chess.com:</strong> <code><a href="https://chess.com/member/lucazof" target_blank>@lucazof</a></code> (yes, I like chess, but I'm horrible on it)<br>
 
-![phpcme0qu](https://user-images.githubusercontent.com/74553272/153092732-3da24f8f-7c18-4fba-8781-ef3434893d09.gif)
+<br>
+
+<img src="https://lucasof.site/assets/img/gifs/cyberpunk_room.gif" height="420px">
