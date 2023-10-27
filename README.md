@@ -1,6 +1,6 @@
 # 👋 Yo.
 <br>
-I started with Minecraft servers and applications in VB.Net on 2015, I also tried creating Minecraft Plugins and other stuff. 💻
+I started with Minecraft servers and applications in VB.Net in 2015, I also tried creating Minecraft Plugins and other stuff. 💻
 
 Nowadays I'm focused on **game engines/game development**, but I still do other things sometimes. Working on my personal website, <a href="https://lucasof.site" target="blank">click here</a> to see
 (Not ready yet) 🍁
