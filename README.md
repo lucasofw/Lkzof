@@ -16,3 +16,8 @@ Trying to finish my games and publish them on steam/play store, but working alon
 • <strong>Chess.com:</strong> <code><a href="https://chess.com/member/lucazof" target_blank>@lucazof</a></code> (yes, I like chess, but I'm horrible on it)<br>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lukazof&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lukazof&icon=0&color=12)](https://visitcount.itsvg.in)
