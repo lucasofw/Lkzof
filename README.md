@@ -6,9 +6,7 @@ I started with Minecraft servers and applications in VB.Net in 2015, during that
 
 Nowadays I'm focused on challenging projects, like *compilers, chess engines, game engines*, mainly things that I have curiosity and interest (Usually I start a new project just 'cause i'm curious).
 
-### 🎮 
-I'm also a Game Developer trying to finish my games and publish them on steam/play store, but working alone is a bit hard 
-
+I'm also a Game Developer 🎮 trying to finish my games and publish them on steam/play store, but working alone is a bit hard 
 
 **📨 Contact Me:** 
 
