@@ -1,6 +1,6 @@
-# 👋 Yo.
-<br>
-I'm a brazilian 🇧🇷 software developer who likes to create random stuff.<br><br>
+<h1 align=center>👋 Hi. I'm <a href="https://github.com/lukazof">Lucas Campos</a> </h1>
+
+<p align=center>I'm a brazilian 🇧🇷 software developer who likes to create random stuff.</p>
 
 I started with Minecraft servers and applications in VB.Net in 2015, during that time I also created Minecraft Plugins and other small stuff. 💻
 
