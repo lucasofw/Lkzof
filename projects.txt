@@ -1,0 +1,19 @@
+Info:
+[] = To do
+[x] = Complete
+[-] = Working on It
+[~] = Archived
+
+List of projects that I want to create:
+
+[] Virtual Machine and Interpreter for a simple Programming Language
+[] Wolfram Alpha like program (Ultra fancy calculator)
+[] Solar System Simulation
+[] Videogame for the Game Boy Advance console (that runs on real hardware)
+[] C++ Game Engine (With 3D capabilities)
+[] Chess Engine that can beat me
+[] AI Bot to help me manage my projects
+[] Complete Minecraft server with my own plugins
+[] Note taking app like Obsidian (but open source)
+[] Lothus (A game that I wan't to make)
+[] Create the IronMan Armor (I'm kidding, or am I?)
