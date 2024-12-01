@@ -15,5 +15,5 @@ List of projects that I want to create:
 [] AI Bot to help me manage my projects
 [] Complete Minecraft server with my own plugins
 [] Note taking app like Obsidian (but open source)
-[] Lothus (A game that I wan't to make)
+[] Lothus (A game that I want to make)
 [] Create the IronMan Armor (I'm kidding, or am I?)
